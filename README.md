@@ -14,7 +14,6 @@ This software is distributed without any warranty.
 </sup>
 
 <br>
-
 <sub>
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion by you shall be licensed as above, without any additional terms
