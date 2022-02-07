@@ -13,7 +13,6 @@ related and neighboring rights to this software to the public domain worldwide.
 This software is distributed without any warranty.
 </sup>
 
-
 <br>
 <sub>
 Unless you explicitly state otherwise, any contribution intentionally submitted
