@@ -5,7 +5,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/playframework/play-samples.svg?style=flat)](https://github.com/playframework/play-samples/network)
 [![GitHub stars](https://img.shields.io/github/stars/playframework/play-samples.svg?style=flat)](https://github.com/playframework/play-samples/stargazers)
 
-
 #### License
 
 <sup>
