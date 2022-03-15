@@ -6,6 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/playframework/play-samples.svg?style=flat)](https://github.com/playframework/play-samples/stargazers)
 
 
+
 #### License
 <sup>
 To the extent possible under law, the author(s) have dedicated all copyright and
