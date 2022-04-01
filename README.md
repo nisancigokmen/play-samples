@@ -1,7 +1,5 @@
 # Play samples
 
-
-
 [![Build Status](https://travis-ci.com/playframework/play-samples.svg?branch=2.8.x)](https://travis-ci.com/playframework/play-samples)
 [![GitHub issues](https://img.shields.io/github/issues/playframework/play-samples.svg?style=flat)](https://github.com/playframework/play-samples/issues)
 [![GitHub forks](https://img.shields.io/github/forks/playframework/play-samples.svg?style=flat)](https://github.com/playframework/play-samples/network)
